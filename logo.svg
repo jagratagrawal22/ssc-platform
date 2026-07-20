@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" fill="none">
+  <!-- Navy background block just for preview, not included in actual logo -->
+  <rect width="400" height="100" rx="12" fill="transparent" />
+  
+  <!-- Icon: A stylized graduation cap merged with an upward arrow/flame -->
+  <g transform="translate(20, 20)">
+    <path d="M30 10 L60 25 L30 40 L0 25 Z" fill="#F59E0B" />
+    <path d="M15 32.5 L15 50 C15 55 25 60 30 60 C35 60 45 55 45 50 L45 32.5" fill="none" stroke="#1E3A8A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M60 25 L60 45" stroke="#F59E0B" stroke-width="4" stroke-linecap="round" />
+  </g>
+  
+  <!-- Text -->
+  <text x="100" y="62" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="36" fill="#1E3A8A">SSC With Jagrat</text>
+</svg>
